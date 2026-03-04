@@ -8,4 +8,13 @@
 🔗 <b>타입별 스크랩 모아보기</b>: 링크, 이미지, 텍스트 등 유형별로 콘텐츠를 자동으로 묶어 시각적으로 분류하고 제공하여, 원하는 정보를 빠르게 찾을 수 있습니다.<br>
 📋 <b>카테고리 관리</b>: 추가/삭제할 카테고리를 쉽게 관리하여, 기존 카테고리를 삭제할 경우 해당 스크랩을 다른 카테고리로 안전하게 이동시킬 수 있습니다.<br><br>
 
-웹 사이트: https://clip-8c9e0.web.app/
+### 기술 스택
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+**Frameworks & Libraries**<br>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/framer motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"><br><br>
+
+배포 링크: https://clip-8c9e0.web.app/
